@@ -28,7 +28,8 @@ I will not be held responsible for any damage, permanent loss of data or any sor
 ## What's working
 - AppleID and iServices
 - Apple continuity and handoff features (requires a native wifi NIC)
-- Wi-Fi & Bluetooth, Ethernet
+- Wi-Fi & Bluetooth
+- Ethernet (Make sure to change fallbackMACaddress value with your mac address in RealtekRLT8111.kext)
 - Display outputs (DP + HDMI)
 - Hardware acceleration (Monterey and below)
 - Headphone jack, microphone
